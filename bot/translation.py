@@ -3,7 +3,7 @@ class Translation(object):
       DOWNLOAD_PROGRESS = "`█`"
       UPLOAD_PROGRESS = "`░`"
        
-      START_TEXT = """Merhaba {0}\nHiç sesi olmayan Telegram videolarını sesli olarak kodlayabilirim, sadece bana sesi olmayan bir video gönder."""
+      START_TEXT = """Merhaba {0}\nŞimdi bana sesi olmayan bir video gönder. Kanallarımıza katılmak için @filmcee ve @hextr kanallarını kullanabilirsin"""
 
       PROGRESS = """`
 Yüzde : {0}%
