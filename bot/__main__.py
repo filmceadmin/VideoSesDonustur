@@ -29,7 +29,7 @@ def help_message(app, message):
                 [
                     [
                         InlineKeyboardButton(
-                            "KANALA KATIL", url="https://heg.tc/ORSz"
+                            "KANALA KATIL", url="https://t.me/joinchat/mfgkm8XHHYUwMWE0"
                         )
                     ]
                 ]
