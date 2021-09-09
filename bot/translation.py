@@ -3,7 +3,7 @@ class Translation(object):
       DOWNLOAD_PROGRESS = "`█`"
       UPLOAD_PROGRESS = "`░`"
        
-      START_TEXT = """Merhaba {0}\nŞimdi bana sesi olmayan bir video gönder. Kanallarımıza katılmak için @filmcee ve @hextr kanallarını kullanabilirsin"""
+      START_TEXT = """Merhaba {0}\nŞimdi bana sesi olmayan bir video gönder. 👉 @hextr"""
 
       PROGRESS = """`
 Yüzde : {0}%
