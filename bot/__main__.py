@@ -29,7 +29,7 @@ def help_message(app, message):
                 [
                     [
                         InlineKeyboardButton(
-                            "Admin Destek", url="https://t.me/filmceadmin"
+                            "Kanala Katıl", url="https://heg.tc/ORSz"
                         )
                     ]
                 ]
